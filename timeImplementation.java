@@ -6,7 +6,7 @@ public class timeImplementation{
      //int minute;
      //int second;
      
-     //객체지향방식 코
+     //객체지향방식 코드
      time t1=new time();
      t1.hour=21;
      t1.minute=23;
