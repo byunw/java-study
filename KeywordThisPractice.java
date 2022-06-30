@@ -8,6 +8,7 @@ class Car{
       //default constructor
       Car(){
          //calling nondefault constructor
+         //because of this keyword, the codes in Car() can be reduced   
          this("white","auto",4);
       }
       
